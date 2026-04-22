@@ -1,0 +1,12 @@
+site_name: "VIA VALERIA: Il Regno"
+theme:
+  name: material
+  palette:
+    primary: red # Granito Rosso
+    accent: deep orange
+nav:
+  - Home: index.md
+  - La Tesi:
+    - Introduzione: frammenti_sparsi/01_introduzione.md
+    - Carta Archeologica: frammenti_sparsi/02_carta_archeologica.md
+    - Analisi del Tracciato: frammenti_sparsi/03_analisi_tracciato.md
