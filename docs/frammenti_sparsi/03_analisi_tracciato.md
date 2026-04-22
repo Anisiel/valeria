@@ -369,7 +369,7 @@ Un sentiero, che non è più possibile seguire perché le case lo impediscono, m
 Se invece si seguono alla lettera le indicazioni del Gori e del Lanciani si dovrebbe ipotizzare una strada (che non per forza deve essere identificata con la Via Valeria) che scendeva direttamente da Civita verso il luogo dove era il miliario di Nerva (n.76).
 Questo probabilmente segnava il 43° miglio da Roma della variante della Via Valeria che passava fuori della colonia di Carseoli. Chi invece preferiva entrare nella città, si sarebbe trovato un miliario con la medesima cifra nel centro della colonia, come potrebbe indicare la segnalazione del Misceli del frammento di miliario (naturalmente andato perduto).
 
- Da Carseoli a Carsoli
+ ## Da Carseoli a Carsoli
 
 Oltre Carseoli fino a Carsoli il sentiero che percorrevano gli studiosi passati e che corrispondeva alla Via Valeria (riunitasi poco dopo la colonia), non esiste più, di strutto dalla ferrovia, dall’autostrada, dai lavori nei campi, dalle case.
 Tutti gli studiosi affermano di non vedere il tratto di strada oltre la colonia. Il sentiero, che Ashby e Pfeiffer indicano come la sola Via Valeria e che passava a SE di Carseoli, si perdeva già all’epoca dei due studiosi inglesi oltre contrada Nasetta, luogo di rinvenimento del miliario di Nerva (n.76).
